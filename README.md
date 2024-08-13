@@ -1,9 +1,4 @@
-# TO DO BEFORE ! 
-
-
-
-
-
+# Requierements
 
 ```
 sudo pip install yt_dlp
